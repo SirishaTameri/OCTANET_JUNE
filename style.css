@@ -1,0 +1,59 @@
+*{
+    margin:0px;
+    padding:0px; 
+    box-sizing: border-box;
+    font-family: "Roboto", sans-serif;
+    
+    }
+.code{
+     min-height: 100vh;
+    background-image: url('https://www.entrepreneurshipinabox.com/wp-content/uploads/Fast-Ways-To-Earn-Money-Online-Helpful-Tips-For-The-Unemployed.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    }
+nav{
+    background: aqua;
+    color: rgb(159, 47, 140);
+    padding: 7px;
+    text-align: center;
+
+ }
+
+nav ul {
+   text-decoration: flex;
+    padding: 0;
+    text-align: center;
+    
+    }
+
+nav ul li {
+    display: inline-block;
+    margin: 0 15px;
+    }
+      .content{
+        position: absolute;
+        top:50%;
+        Left:50%;
+        transform: translate(-50%,-50%);
+        text-align: center;
+        color:rgb(202, 22, 22);
+
+        }
+   .content button{
+
+            background-color: rgb(235, 227, 227);           
+            color:#066419;          
+            border:none;           
+            padding:10px 20px;           
+            font-size: 20px;
+            border-radius: 5px;
+            cursor: pointer;            
+            
+            }
+.details:hover{
+  color:black;
+  font-weight:bold;
+  cursor:pointer;
+}
+ 
